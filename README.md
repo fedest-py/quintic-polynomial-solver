@@ -24,6 +24,7 @@ This Python script solves **fifth-degree polynomial equations** using Newton's m
 - Enter x^5 coefficient: 1
 - Enter guess: 1.1
 
+## Output: 
 - Approx answer: 1.4287159979621487
 
   
